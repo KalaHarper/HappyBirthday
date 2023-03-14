@@ -66,14 +66,12 @@ public class HappyBirthday {
             System.out.println("Shuvo jonmodin tomay\n" +
                     "Shuvo jonmodin tomay\n" +
                     "Shuvo jonmodin " + name + "!\n" +
-                    "Shuvo jonmodin tomay\n" +
-                    "https://lyricstranslate.com");
+                    "Shuvo jonmodin tomay");
         }else if(selection.contains("h")){
             System.out.println("С днем рожденья тебя\n" +
                     "С днем рожденья тебя!\n" +
                     "С днем рожденья," + name + "! \n" +
-                    "С днем рожденья тебя!\n" +
-                    "https://lyricstranslate.com");
+                    "С днем рожденья тебя!");
         }else if(selection.contains("i")){
             System.out.println("Parabéns pra você,\n" +
                     "Nesta data querida.\n" +
